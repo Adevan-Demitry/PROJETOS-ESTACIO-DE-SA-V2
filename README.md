@@ -1,4 +1,7 @@
 # 🚀 Portfólio
+> [!IMPORTANT]
+> Este repositório apresenta a versão resumida do portfólio. A versão completa dos projetos está disponível em um repositório privado.
+ 
 ### | Estácio de Sá – Análise e Desenvolvimento de Sistemas
 #
 

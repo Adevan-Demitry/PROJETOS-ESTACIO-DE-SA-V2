@@ -25,8 +25,7 @@ Os projetos exploram como a tecnologia pode ser aplicada para compreender necess
 >
 > Python | Flask | PostgreSQL | SQLAlchemy | Flask-Migrate.
 >
-> **Acessar projeto:** [PROJETO DE EXTENSÃO – PYTHON](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA/tree/main/11-PROJETO%20EXTENSOES-R%20A%20PYTHON)
-
+> **Acessar projeto:** [PROJETO DE EXTENSÃO – PYTHON](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA-V2/tree/main/11-PROJETO%20EXTENSOES-R%20A%20PYTHON)
 #
 > [!IMPORTANT]
 > # **2. EiraSpark: Big Data aplicado no condomínio**
@@ -41,7 +40,7 @@ Os projetos exploram como a tecnologia pode ser aplicada para compreender necess
 >
 > Apache Spark | Python | Excel | Formulários | Modelagem de dados | K-Means (Machine Learning).
 >
-> **Acessar projeto:** [PROJETO DE EXTENSÃO – BIG DATA](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA/tree/main/18-PROJETO%20EXTENSOES-BIG%20DATA)
+> **Acessar projeto:** [PROJETO DE EXTENSÃO – BIG DATA](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA-V2/tree/main/18-PROJETO%20EXTENSOES-BIG%20DATA)
 
 #
 > [!IMPORTANT]
@@ -57,7 +56,7 @@ Os projetos exploram como a tecnologia pode ser aplicada para compreender necess
 >
 > NetBeans | Java (POO) | JPA | Hibernate | JDBC | Formulários digitais.
 >
-> **Acessar projeto:** [PROJETO DE EXTENSÃO – JAVA](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA/tree/main/20-PROJETO%20EXTENSOES-JAVA)
+> **Acessar projeto:** [PROJETO DE EXTENSÃO – JAVA](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA-V2/tree/main/20-PROJETO%20EXTENSOES-JAVA)
 
 #
 > [!IMPORTANT]
@@ -75,7 +74,7 @@ Os projetos exploram como a tecnologia pode ser aplicada para compreender necess
 >
 > **Resultados:** 88,8% de aprovação geral e 96% de engajamento nas enquetes.
 >
-> **Acessar projeto:** [PROJETO DE EXTENSÃO – ANÁLISE DE DADOS](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA/tree/main/21-PROJETO%20EXTENSOES-ANALISE%20DADOS)
+> **Acessar projeto:** [PROJETO DE EXTENSÃO – ANÁLISE DE DADOS](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA-V2/tree/main/21-PROJETO%20EXTENSOES-ANALISE%20DADOS)
 
 #
 > [!IMPORTANT]
@@ -93,4 +92,4 @@ Os projetos exploram como a tecnologia pode ser aplicada para compreender necess
 >
 > **Resultados:** 98% de aprovação e redução de conflitos no uso das vagas.
 >
-> **Acessar projeto:** [PROJETO DE EXTENSÃO – ANDROID](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA/tree/main/22-PROJETO%20EXTENSOES-PDM%20ANDROID)
+> **Acessar projeto:** [PROJETO DE EXTENSÃO – ANDROID](https://github.com/Adevan-Demitry/PROJETOS-ESTACIO-DE-SA-V2/tree/main/22-PROJETO%20EXTENSOES-PDM%20ANDROID)
